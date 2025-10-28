@@ -1,4 +1,2 @@
-print("hello Palvi")
-
-
+print('"Hello", Palvi!')
 
